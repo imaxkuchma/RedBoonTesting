@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00985133afaa59e46860ca0ef786f832, type: 3}
+  m_Name: ItemData_Lime
+  m_EditorClassIdentifier: 
+  m_type: 3
+  m_name: Lime
+  m_icon: {fileID: 9207172399211861186, guid: 297db86e3e292a647b47b5947e753df9, type: 3}
+  m_price: 20
